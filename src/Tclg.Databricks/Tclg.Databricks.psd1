@@ -101,7 +101,7 @@ PrivateData = @{
         # LicenseUri = ''
 
         # A URL to the main website for this project.
-        ProjectUri = 'https://github.com/travis-c-lagrone/powershell-tclg-databricks'
+        ProjectUri = 'https://github.com/travis-c-lagrone/tclg-powershell-databricks'
 
         # A URL to an icon representing this module.
         # IconUri = ''
